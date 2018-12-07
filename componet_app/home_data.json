@@ -36,43 +36,6 @@
         },
         "list": [
             {
-                "type": 2,
-                "logo": "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
-                "title": "tb73399384",
-                "info": "1",
-                "price": "$1200",
-                "text": "还在手动写繁锁的页面吗？GRUT让你脱离苦海.",
-                "from": " 来自北京|新中关",
-                "zan": "5",
-                "url": [
-                    "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg"
-                ]
-            },
-            {
-                "type": 3,
-                "title": "7天搞定Node.js微信公众号@前端到后台ThinkPHP开发整站@组件方式开发WebAPP全站@飞速上手的跨平台App开始@Yii2.0全力出击打造完整电商",
-                "price": "当前价格:128.00@当前价格:268.00@当前价格:78.00@当前价格:88.00@当前价格:168.00",
-                "info": "【专治各种疑问】什么是收费课?@【专治各种疑问】为什么要收费?@【专治各种疑问】收费课程的核心价值?@【专治各种疑问】收费课与免费课的区别?@【专治各种疑问】如何购买课程?",
-                "text": "842人在学@1353人在学@345人在学@1264人在学@737人在学",
-                "url": [
-                    "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
-                    "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
-                    "http://img.mukewang.com/54b619d70001294906000338-590-330.jpg",
-                    "http://img.mukewang.com/539a5dac0001199007200404-500-284.jpg",
-                    "http://img.mukewang.com/55657fa600015fe206000338-590-330.jpg",
-                    "http://img.mukewang.com/5668dc790001aa2b06000338-590-330.jpg",
-                    "http://img.mukewang.com/55f93f980001f52125001408-590-330.jpg",
-                    "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
-                    "http://img.mukewang.com/56556ecb00010b7806000338-590-330.jpg",
-                    "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
-                    "http://img.mukewang.com/56e617dd0001583d06000338-590-330.jpg",
-                    "http://img.mukewang.com/5487a78e000105b606000338-590-330.jpg",
-                    "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
-                    "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
-                    "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg"
-                ]
-            },
-            {
                 "type": 0,
                 "logo": "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
                 "title": "今日必学",
@@ -81,7 +44,7 @@
                 "site": "http://www.imooc.com/learn/595",
                 "from": "来自南京",
                 "zan": "10",
-                "resource": "http://fairee.vicp.net:83/2016rm/0116/baishi160116.mp4",
+                "resource": "https://raw.githubusercontent.com/pengguanming/VideoData/master/1.%E4%BB%8B%E7%BB%8D.mp4",
                 "adid": "00000001112",
                 "clickUrl": "http://www.imooc.com/",
                 "clickMonitor": [
@@ -127,6 +90,157 @@
                         "url": "http: //imooc.com/show?end=2",
                         "time": 5
                     }
+                ]
+            },
+            {
+                "type": 0,
+                "logo": "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
+                "title": "今日必学",
+                "info": "1",
+                "text": "想成为全栈工程师吗，MogoDB你的不二法宝.",
+                "site": "http://www.imooc.com/learn/595",
+                "from": "来自南京",
+                "zan": "10",
+                "resource": "https://raw.githubusercontent.com/pengguanming/VideoData/master/1.%E4%BB%8B%E7%BB%8D.mp4",
+                "adid": "00000001112",
+                "clickUrl": "http://www.imooc.com/",
+                "clickMonitor": [
+                    {
+                        "ver": "0",
+                        "url": "http://imooc.com/click??click=1"
+                    },
+                    {
+                        "ver": "0",
+                        "url": "http://imooc.com/click?click=2"
+                    }
+                ],
+                "startMonitor": [
+                    {
+                        "ver": "0",
+                        "url": "http://imooc.com/show?impression=1"
+                    },
+                    {
+                        "ver": "0",
+                        "url": "http: //imooc.com/show?impression=2"
+                    }
+                ],
+                "middleMonitor": [
+                    {
+                        "ver": "0",
+                        "url": "http://imooc.com/show?SU=1",
+                        "time": 5
+                    },
+                    {
+                        "ver": "0",
+                        "url": "http: //imooc.com/show?impression=2",
+                        "time": 5
+                    }
+                ],
+                "endMonitor": [
+                    {
+                        "ver": "0",
+                        "url": "http://imooc.com/show?end=1",
+                        "time": 5
+                    },
+                    {
+                        "ver": "0",
+                        "url": "http: //imooc.com/show?end=2",
+                        "time": 5
+                    }
+                ]
+            },
+            {
+                "type": 0,
+                "logo": "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
+                "title": "今日必学",
+                "info": "1",
+                "text": "想成为全栈工程师吗，MogoDB你的不二法宝.",
+                "site": "http://www.imooc.com/learn/595",
+                "from": "来自南京",
+                "zan": "10",
+                "resource": "https://raw.githubusercontent.com/pengguanming/VideoData/master/1.%E4%BB%8B%E7%BB%8D.mp4",
+                "adid": "00000001112",
+                "clickUrl": "http://www.imooc.com/",
+                "clickMonitor": [
+                    {
+                        "ver": "0",
+                        "url": "http://imooc.com/click??click=1"
+                    },
+                    {
+                        "ver": "0",
+                        "url": "http://imooc.com/click?click=2"
+                    }
+                ],
+                "startMonitor": [
+                    {
+                        "ver": "0",
+                        "url": "http://imooc.com/show?impression=1"
+                    },
+                    {
+                        "ver": "0",
+                        "url": "http: //imooc.com/show?impression=2"
+                    }
+                ],
+                "middleMonitor": [
+                    {
+                        "ver": "0",
+                        "url": "http://imooc.com/show?SU=1",
+                        "time": 5
+                    },
+                    {
+                        "ver": "0",
+                        "url": "http: //imooc.com/show?impression=2",
+                        "time": 5
+                    }
+                ],
+                "endMonitor": [
+                    {
+                        "ver": "0",
+                        "url": "http://imooc.com/show?end=1",
+                        "time": 5
+                    },
+                    {
+                        "ver": "0",
+                        "url": "http: //imooc.com/show?end=2",
+                        "time": 5
+                    }
+                ]
+            },
+            {
+                "type": 2,
+                "logo": "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
+                "title": "tb73399384",
+                "info": "1",
+                "price": "$1200",
+                "text": "还在手动写繁锁的页面吗？GRUT让你脱离苦海.",
+                "from": " 来自北京|新中关",
+                "zan": "5",
+                "url": [
+                    "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg"
+                ]
+            },
+            {
+                "type": 3,
+                "title": "7天搞定Node.js微信公众号@前端到后台ThinkPHP开发整站@组件方式开发WebAPP全站@飞速上手的跨平台App开始@Yii2.0全力出击打造完整电商",
+                "price": "当前价格:128.00@当前价格:268.00@当前价格:78.00@当前价格:88.00@当前价格:168.00",
+                "info": "【专治各种疑问】什么是收费课?@【专治各种疑问】为什么要收费?@【专治各种疑问】收费课程的核心价值?@【专治各种疑问】收费课与免费课的区别?@【专治各种疑问】如何购买课程?",
+                "text": "842人在学@1353人在学@345人在学@1264人在学@737人在学",
+                "url": [
+                    "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
+                    "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
+                    "http://img.mukewang.com/54b619d70001294906000338-590-330.jpg",
+                    "http://img.mukewang.com/539a5dac0001199007200404-500-284.jpg",
+                    "http://img.mukewang.com/55657fa600015fe206000338-590-330.jpg",
+                    "http://img.mukewang.com/5668dc790001aa2b06000338-590-330.jpg",
+                    "http://img.mukewang.com/55f93f980001f52125001408-590-330.jpg",
+                    "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
+                    "http://img.mukewang.com/56556ecb00010b7806000338-590-330.jpg",
+                    "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
+                    "http://img.mukewang.com/56e617dd0001583d06000338-590-330.jpg",
+                    "http://img.mukewang.com/5487a78e000105b606000338-590-330.jpg",
+                    "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
+                    "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg",
+                    "http://img.mukewang.com/54bf7e1f000109c506000338-590-330.jpg"
                 ]
             },
             {
